@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m a developer of the game [Free Fire](https://ff.garena.com/)
+- 😄 My avatar is my puppy Bagel
 <!--
 **ebfood/ebfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
